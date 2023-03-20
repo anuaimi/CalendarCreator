@@ -1,0 +1,9 @@
+[package]
+name = "calendar-creator"
+version = "0.1.1"
+authors = ["runner"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
